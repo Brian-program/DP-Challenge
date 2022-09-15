@@ -1,0 +1,55 @@
+/* write your code below...  */
+
+body {
+  padding: 1em;
+  background-color: lightblue;
+}
+h1{
+  color: black;
+  text-align: center;
+}
+h3{
+  color: black;
+  text-align: center;
+}
+h4{
+  color: black;
+  text-align: center;
+}
+
+#questions{
+  margin: auto;
+  text-align: center;
+  border: .5px solid black;
+  width: 75%;
+  background-color: antiquewhite;
+  padding: 5px 5px;
+}
+#submit{
+  text-align: center;
+}
+.option{
+  margin: auto;
+  width: 75%;
+  border: .5px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+input[type="radio"]:after{
+  content: "\a";
+  white-space: pre;
+}
+input[type="radio"]:before{
+  content: "\a";
+  white-space: pre;
+}
+label {
+  display: block;
+}
+.prompt {
+  margin: auto;
+  width: 75%;
+  border: 1px solid black;
+  padding: 10px;
+}
