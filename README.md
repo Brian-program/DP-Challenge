@@ -1,6 +1,6 @@
 # DP-Challenge
 
-Completed in 10 hours, included learning the languages and implementing along the way
+Completed in 10 hours, included first time learning the languages and implementing along the way
 
 Features:<br />
 Used radio buttons for the selection feature for each question<br />
